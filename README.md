@@ -6,6 +6,8 @@ An IoT-based Smart Pill Dispenser system designed to automatically dispense medi
 
 The Smart Pill Dispenser automates the process of medicine management by integrating real-time scheduling, automated dispensing, and cloud-based monitoring. It dispenses pills at predefined times, notifies users with alarms, and logs all events to the Adafruit IO cloud platform for remote tracking.
 
+Project Link: https://wokwi.com/projects/445585211538486273
+
 ⚙️ Features
 
 Automated pill dispensing using servo motors.
